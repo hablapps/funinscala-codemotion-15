@@ -27,9 +27,9 @@ El último comando utiliza la herramienta de build `sbt` para actualizar las dep
 
 ### Organización del workshop
 
-Con la salvedad de unas cuantas transparencias, durante el workshop haremos uso principalmente del editor de texto y la consola de Scala. 
+Con la salvedad de unas pocas transparencias, durante el workshop haremos uso principalmente del editor de texto y la consola de Scala. 
 
-Concretamente, una vez hecho realizados los pasos anteriores, el siguiente comando permite compilar los ficheros fuentes que editéis dentro del repositorio (utilizando Sublime, Atom, emacs, vim, etc.), y una vez compilados arrancar la consola de comandos de Scala:
+Concretamente, una vez realizados los pasos anteriores, el siguiente comando permite compilar los ficheros fuentes que editéis dentro del repositorio (utilizando Sublime, Atom, emacs, vim, etc.), y una vez compilados arrancar la consola de comandos de Scala:
 
 - `./sbt ~console`
 
