@@ -17,9 +17,9 @@ Alternativamente, podéis seguir los siguientes pasos (preferiblemente, antes de
 
 - Instalar Java y [git](https://git-scm.com)
 - Clonar este repositorio: 
-`git clone https://github.com/hablapps/fpinscala-workshop-codemotion-15.git`.
+`git clone https://github.com/hablapps/funinscala-codemotion-15.git`.
 - Acceder a tu repositorio local: 
-`cd fpinscala-workshop-codemotion-15`.
+`cd funinscala-codemotion-15`.
 - Actualizar las dependencias: 
 `./sbt update`.
 
