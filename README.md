@@ -35,3 +35,8 @@ Concretamente, una vez realizados los pasos anteriores, el siguiente comando per
 
 La virgulilla en el comando anterior nos permite quedar a la espera de nuevos cambios en los fuentes del proyecto una vez salgamos de la REPL de Scala, sin necesidad de arrancar de nuevo la herramienta de build. Durante el workshop, esta facilidad será utilizada con asiduidad.
 
+### Material 
+
+El fichero [WorkshopCodemotion15.pdf](WorkshopCodemotion15.pdf) contiene las transparencias de la presentación que utilizamos durante el workshop. 
+
+El código que escribimos durante la sesión (con modificaciones menores) se encuentra en el fichero [monadas.scala](monadas.scala)
